@@ -3,7 +3,7 @@
     <head>
         <title>my inventory</title>
 
-        <link rel="stylesheet" type="text/css" href="styles.css">i
+        <link rel="stylesheet" type="text/css" href="styles.css">
 
         <script type="text/javascript" src="js/MooTools-Core-1.5.1.js"></script>
         <script type="text/javascript" src="js/darkwing-ScrollSpy-f202941/Source/ScrollSpy.js"></script>
@@ -14,7 +14,7 @@
         <script type="text/javascript" src="js/ducksboard-gridster.js-3140374/src/jquery.draggable.js"></script>
 
         <script type="text/javascript" src="js/ducksboard-gridster.js-3140374/src/jquery.gridster.js"></script>
-        <link type="text/css" src="js/ducksboard-gridster.js-310374/src/jquery.gridster.css"></link>
+        <link type="text/css" src="js/ducksboard-gridster.js-310374/src/jquery.gridster.css">
 
         <script type="text/javascript" src="js/ducksboard-gridster.js-3140374/src/jquery.gridster.extras.js"></script>
 
